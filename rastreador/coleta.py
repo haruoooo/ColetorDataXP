@@ -2,7 +2,7 @@ from playwright.sync_api import sync_playwright
 from datetime import datetime
 import json
 import os
-
+#teste push
 def rastrear_acoes(output_path='data/acoes_usuario.json'):
     dados = []
 
